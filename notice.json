@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5ISmu0LwOfp9Dc7qAluq",
+        "createdAt": "2023-11-09T15:06:28.144Z",
+        "metadata": {
+            "showPopup": true
+        },
+        "name": "Test Notice",
+        "content": "Notice for test purpose.",
+        "updatedAt": "2023-11-09T15:06:28.144Z"
+    },
+    {
+        "id": "HmfrNqq9ehU7rTa2hMuW",
+        "createdAt": "2023-07-29T00:00:15.463Z",
+        "metadata": {
+            "showPopup": false
+        },
+        "name": "CP Dev team",
+        "content": "hello players.",
+        "updatedAt": "2023-07-29T00:00:15.463Z"
+    }
+]
